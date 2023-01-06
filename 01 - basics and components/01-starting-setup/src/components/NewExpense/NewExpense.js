@@ -5,10 +5,10 @@ import ExpenseForm from "./ExpenseForm";
 
 const NewExpense = (props) => {
   const [isAdding, setIsAdding] = useState(false);
-  const handleAddingNewExpanse = () => {
+  const handleAddingNewExpense = () => {
     setIsAdding(true);
   };
-  const cancelAddingNewExpanse = () => {
+  const cancelAddingNewExpense = () => {
     setIsAdding(false);
   };
 
@@ -24,10 +24,10 @@ const NewExpense = (props) => {
   return (
     <div className="new-expense">
       {!isAdding ? (
-        <button onClick={handleAddingNewExpanse}>Add New Expanse</button>
+        <button onClick={handleAddingNewExpense}>Add New Expense</button>
       ) : (
         <ExpenseForm
-          onCancel={cancelAddingNewExpanse}
+          onCancel={cancelAddingNewExpense}
           onSaveExpenseData={saveExpenseDataHandler}
         />
       )}
