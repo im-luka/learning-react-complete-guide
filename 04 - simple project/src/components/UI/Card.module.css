@@ -1,0 +1,10 @@
+.card-main {
+  min-width: 10em;
+  max-width: 50em;
+  background: white;
+  color: black;
+  margin-inline: auto;
+  margin-top: 2em;
+  padding: 1em;
+  border-radius: 10px;
+}
