@@ -1,0 +1,14 @@
+.form-container {
+  margin: 1em;
+}
+
+.form-label {
+  font-size: 1.25em;
+  font-weight: bold;
+}
+
+.form-container input {
+  width: 100%;
+  margin-top: 1.1em;
+  height: 1.25em;
+}
