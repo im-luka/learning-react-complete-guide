@@ -32,7 +32,7 @@ Then, in lessons where you see `.env.example` file, create `.env` file at the ro
 ![05](https://user-images.githubusercontent.com/46372998/211098124-b1b01739-2d12-4f56-a71d-580291afbcc9.png)
 <hr />
 
-#### *06 - food project*
+#### *06/12 - food project*
 ![06:12 - 1](https://user-images.githubusercontent.com/46372998/211098128-c52d3215-766c-4b1f-a25e-ce0468a1f942.png)
 ![06:12 - 2](https://user-images.githubusercontent.com/46372998/211098136-5ce5dbfc-3d6a-4135-8ddc-72680071c752.png)
 <hr />
