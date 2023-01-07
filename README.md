@@ -3,7 +3,7 @@
 *Here you can find lots of resources for learning React.  
 Resources are project based and cover all of the main topics to help you start as fast as possible.*
 
-> [Check out this awesome course created by Max](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+> [Check out this great course created by Max](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
 ### ⚠️ Note
 From lesson `09 - http requests` onwards, in some lessons, you will start using Firebase API.  
