@@ -6,9 +6,12 @@ Resources are project based and cover all of the main topics to help you start a
 > [Check out this great course created by Max](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
 ### ⚠️ Note
-From lesson `09 - http requests` onwards, in some lessons, you will start using Firebase API.  
+From lesson `09 - http requests` onwards, in some lessons, you will start using Firebase API.
+
 You will need to create Firebase project and import provided `learning-react-data.json` file in realtime database.  
+
 Then, in lessons where you see `.env.example` file, create `.env` file at the root of the project and assign your API key to a variable with name `REACT_APP_API_KEY`.
+
 <hr />
 
 ### Sneak peak of some projects you will create
