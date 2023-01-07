@@ -8,7 +8,7 @@ Resources are project based and cover all of the main topics to help you start a
 ### ⚠️ Note
 From lesson `09 - http requests` onwards, in some lessons, you will start using Firebase API.
 
-You will need to create Firebase project and import provided `learning-react-data.json` file in realtime database.  
+You will need to create Firebase project and import provided `learning-react-data.json` file in realtime database.
 
 Then, in lessons where you see `.env.example` file, create `.env` file at the root of the project and assign your API key to a variable with name `REACT_APP_API_KEY`.
 
