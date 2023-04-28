@@ -89,4 +89,3 @@ Then, in lessons where you see `.env.example` file, create `.env` file at the ro
 
 #### *19 - react with typescript*
 ![19](https://user-images.githubusercontent.com/46372998/211098161-bd761202-29a7-45c2-852f-b99d46972410.png)
-
